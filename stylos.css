@@ -1,0 +1,118 @@
+#contenedor{
+	width: 1200px;
+	height: auto;
+	margin: auto;
+	position: relative;
+}
+body{
+	background: white;
+}
+
+header{
+	width: 1200px;
+	height: 150px;
+	background: white;
+	border-style: solid;
+	border-color: white;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	position: absolute;
+}
+
+h2{
+	color: white;
+	font-size: 15px;
+	text-align: center;
+}
+nav{
+	width: 1200px;
+	height: 55px;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 10px;
+	border-style: solid;
+	background: #F0B429;
+	border-color: #F0B429;
+	position: fixed;
+	top:170px;
+
+}
+
+}ul{
+	margin: auto;
+	padding-top: 4px;
+}
+li{
+	float: left;
+	list-style-type: none;
+	margin: 5px;
+}
+a{
+	text-decoration: none;
+	font-size: 35px;
+	color: white;
+}
+.menu: link{color: white; text-decoration: none; }
+.menu: visited{color: white; text-decoration: none; } 
+.menu: hover{color: yellow; text-decoration: none background: #e7b200; }
+.menu: active{color: white; text-decoration: none background: #e7b200; }
+section{
+	width: 780px;
+	height: auto;
+	float: left;
+	border-style: solid;
+	border-color: #005883;
+	background: #005883;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 10px;
+	margin-top:250px;
+}
+aside{
+	width: 380px;
+	height: auto;
+	float: left;
+	border-style: solid;
+	border-color: #B3B3B3;
+	background: #B3B3B3;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	margin-top:250px;
+}
+footer{
+	width: 1200px;
+	height: 200px;
+	float: left;
+	background: black;
+	color: white;
+	border-style: solid;
+	border-color: white;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 10px;
+}
+p{
+	padding: 15px;
+	color: white;
+	text-align: left;
+}
+#img1{
+	width: 1200px;
+	position: relative;
+	position: fixed;
+	top:0px;
+}
+#img2{
+	width: 1200px;
+	position: relative;
+}
+
+#fooder{
+	padding: 30px;
+	font-size: 40px;
+	text-decoration: bold;
+}
